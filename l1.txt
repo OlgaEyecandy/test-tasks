@@ -1,0 +1,33 @@
+Основы HTML и CSS: 
+https://html5book.ru/osnovy-html/
+https://html5book.ru/css-css3/
+
+
+
+
+Что нужно знать об HTML?
+HyperText Markup Language — «язык гипертекстовой разметки».
+Состоит из тегов.
+Тэги - элементы HTML. Бывают одиночные <br> и  <b>парные.</b>
+Тэги могут иметь атрибуты, которые указываются в открывающем теге.
+<p style=""></p>
+<a href=""></a>
+А как записывать символы, используемые HTML? Юникод! 
+&amp; — амперсанд (&), &lt; — символ «меньше» (<) и &gt; — символ «больше» (>)
+<!--<p> Комментарий в HTML </p>-->
+<html>
+   <head>
+      <meta charset="utf-8" />
+      <title>HTML Document</title>
+   </head>
+   <body>
+      <p>
+         <b>
+            Этот текст будет полужирным, <i>а этот — ещё и курсивным</i>.
+         </b>
+      </p>
+   </body>
+</html>
+
+Текст-рыба:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Habitant morbi tristique senectus et. Elementum eu facilisis sed odio morbi. Semper quis lectus nulla at volutpat. Velit aliquet sagittis id consectetur. Morbi non arcu risus quis varius. Id porta nibh venenatis cras sed felis eget velit aliquet. Convallis a cras semper auctor neque. Dictum sit amet justo donec enim diam vulputate ut pharetra. Est lorem ipsum dolor sit. Nullam non nisi est sit amet facilisis magna etiam. Sit amet mattis vulputate enim. Tempus egestas sed sed risus pretium quam. Egestas diam in arcu cursus euismod quis viverra nibh. Libero justo laoreet sit amet cursus sit amet dictum sit. Volutpat odio facilisis mauris sit amet massa vitae tortor condimentum. Scelerisque in dictum non consectetur a erat. Ac turpis egestas integer eget aliquet nibh.
